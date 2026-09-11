@@ -2,7 +2,7 @@
 
 Un jeu d'échecs complet jouable en ligne de commande (CLI) avec une interface rétro en caractères ASCII.
 
-![Capture d'écran du jeu dans le terminal](capture_terminal.png) *(Ajoute ici une image de ton jeu en ASCII)*
+![Capture d'écran du jeu dans le terminal](capture_terminal.png)
 
 ## Description
 
@@ -37,7 +37,7 @@ Ce projet a été un véritable défi de rapidité et d'organisation, et a mis e
 
 **1. Clonez le dépôt :**
 ```bash
-git clone [Lien de ton repo GitHub, ex: https://github.com/ton-profil/Check.exe.git]
+git clone https://github.com/Rhapeuh/Check.exe.git
 ```
 
 **2. Lancez le jeu via les scripts d'automatisation :**
