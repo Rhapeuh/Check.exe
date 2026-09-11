@@ -2,7 +2,7 @@
 
 Un jeu d'échecs complet jouable en ligne de commande (CLI) avec une interface rétro en caractères ASCII.
 
-![Capture d'écran du jeu dans le terminal](capture_terminal.png)
+![Capture d'écran du jeu dans le terminal](checkexe.png)
 
 ## Description
 
